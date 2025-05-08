@@ -1,4 +1,4 @@
-ALF_ADDER_SUBTRACTOR
+HALF_ADDER_SUBTRACTOR
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 AIM:
@@ -77,3 +77,4 @@ image
 Result:
 
 The code is excecuted successfully.
+
